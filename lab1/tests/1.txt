@@ -1,0 +1,4 @@
+constructors    =   f(3), R(0)
+variables		=   q, x, Y, a, w
+first_term 		=   f(q, q, q)
+second_term		=   f(f(x, Y, R), f(a, w, a), f(w, x, Y))

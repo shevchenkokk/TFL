@@ -1,0 +1,4 @@
+constructors    =    g(2), a(0), b(0)
+variables       =    x, y
+first_term      =    g(a,x)
+second_term     =    g(y,b)

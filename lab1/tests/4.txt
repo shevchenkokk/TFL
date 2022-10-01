@@ -1,0 +1,4 @@
+constructors    = g(1), a(0), f(2)
+variables       = x, y, z, w, v
+first_term      = f(v, g(a))
+second_term     = f(f(y,x), z)
